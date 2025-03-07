@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1007844938673",
+    "project_id": "deliverymanpushnotifications",
+    "storage_bucket": "deliverymanpushnotifications.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1007844938673:android:0f0b1be7cded82144fa390",
+        "android_client_info": {
+          "package_name": "com.woad.deliveryfoodappdeliveryman"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3IfSTjNb8RLENvohB9xieqCxZclUUT9Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
