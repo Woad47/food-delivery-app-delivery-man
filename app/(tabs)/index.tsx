@@ -17,7 +17,7 @@ export default function Index() {
       }}
     >
       <Text>Delivery man APP!</Text>
-      <Text>Notifications Token: {expoPushToken?.data ?? ""}</Text>
+      <Text>Notifications Token:: {expoPushToken?.data ?? ""}</Text>
     </View>
   )
 }
